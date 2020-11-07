@@ -1,5 +1,4 @@
-import 'package:flutter/material.dart';
-import 'inicio.dart';
-import 'normaltela.dart';
+import 'package:flutter/material.dart'; // importação básica 
+import 'splashInicio.dart'; // arquivo da tela splashInicio
 
-void main() => runApp(MyAppBar());
+void main() => runApp(MaterialApp(home: SplashInicio()));
