@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-//import 'metodos.dart';
+//import 'metodos.dart'
 import 'dart:math';
 
 class NormalTela extends StatefulWidget {
